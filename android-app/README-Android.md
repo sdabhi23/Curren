@@ -57,3 +57,5 @@ There are 2 ways to run the app :
 > :bangbang: Note : This app will run only on devices and emulators running **Android Kitkat 4.4 (API 19)** and above. To support older versions manually edit [app level build.gradle :link:](https://github.com/sdabhi23/Curren/blob/master/app/build.gradle).
 
 > :warning: Warning : Trying to support older versions of Android might result in broken dependencies
+
+### [Link to the .apk file](http://www.mediafire.com/file/i3axz74qkccfitq/Curren.apk)
