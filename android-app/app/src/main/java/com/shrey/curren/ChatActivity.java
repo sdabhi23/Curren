@@ -84,7 +84,7 @@ public class ChatActivity extends BaseActivity implements AIListener {
         ref.keepSynced(true);
         
         // TODO: Replace with the Client Access Token of your own Dialogflow chatbot
-        final String ClientAccessToken = "b9eeb25c6c0e4c9e82f7c6225c5d2a4c";
+        final String ClientAccessToken = "Add Your Client Access Token Here";
 
         final AIConfiguration config = new AIConfiguration(ClientAccessToken,
                 AIConfiguration.SupportedLanguages.English,

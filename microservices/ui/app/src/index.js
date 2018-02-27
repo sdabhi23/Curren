@@ -147,8 +147,8 @@ function getBotDelay(msg, isQuick = false) {
 }
 
 ReactDOM.render(<ReactBotUI 
-dialogflow={{accessToken: 'b9eeb25c6c0e4c9e82f7c6225c5d2a4c'}} 
-dialogHeightMax={350}
-          isUserHidden={true}
-          isVisible={true}
-          ref={el => this.chat = el} />, document.getElementById('root'));
+dialogflow={{accessToken: 'Add Your Client Access Token Here'}} 
+  dialogHeightMax={350}
+  isUserHidden={true}
+  isVisible={true}
+  ref={el => this.chat = el} />, document.getElementById('root'));
